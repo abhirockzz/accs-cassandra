@@ -1,0 +1,5 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"java -jar accs-compute-cassandra.jar",
+  "notes":"Sample Cassandra app on ACCS"
+}

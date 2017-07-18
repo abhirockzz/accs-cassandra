@@ -1,0 +1,10 @@
+{
+  "memory": "1G",
+  "instances": 1,
+  "environment": {
+   "CASSANDRA_HOST":"<host_ip>",
+   "CASSANDRA_PORT":"<port>",
+   "CASSANDRA_USERNAME":"<username>",
+   "CASSANDRA_PASSWORD":"<password>"
+  }
+}
