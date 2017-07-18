@@ -24,6 +24,7 @@
       	<exclude>*.zip</exclude>
 		<exclude>original*.jar</exclude>
 		<exclude>*1.0.jar</exclude>
+		<exclude>*shaded.jar</exclude>
       </excludes>
      </fileSet>
   </fileSets>
