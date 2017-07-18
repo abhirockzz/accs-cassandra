@@ -1,4 +1,4 @@
-# Develop a Cassandra based application on Oracle Application Container Cloud Edit
+# Develop a Cassandra based application on Oracle Application Container Cloud
 
 Check [the blog](tbd) for details
 
