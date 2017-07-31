@@ -1,6 +1,6 @@
 # Develop a Cassandra based application on Oracle Application Container Cloud
 
-Check [the blog](tbd) for details
+Check [the blog](https://medium.com/@abhishek1987/develop-deploy-a-cassandra-based-application-on-oracle-cloud-ca3d9d124bf6) for details
 
 ## Build
 
@@ -26,4 +26,4 @@ Check [the blog](tbd) for details
 
 ## Test
 
-Refer to [this section](tbd) from the blog
+Refer **Test the application** section in [the blog](https://medium.com/@abhishek1987/develop-deploy-a-cassandra-based-application-on-oracle-cloud-ca3d9d124bf6)
