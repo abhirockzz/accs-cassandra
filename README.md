@@ -9,7 +9,7 @@ Check [the blog](https://medium.com/@abhishek1987/develop-deploy-a-cassandra-bas
 
 ## Deploy to Oracle Cloud
 
-- Use Developer Cloud - read [the blog](tbd)
+- Use Developer Cloud - read **Oracle Developer Cloud: setup & application deployment** section in [the blog](https://medium.com/@abhishek1987/develop-deploy-a-cassandra-based-application-on-oracle-cloud-ca3d9d124bf6)
 - Use Application Container Cloud [console](http://docs.oracle.com/en/cloud/paas/app-container-cloud/csjse/exploring-application-deployments-page.html#GUID-5E4472B1-F5C6-4556-908C-D76C4C14FC60)
 - Use Application Container Cloud [REST APIs](http://docs.oracle.com/en/cloud/paas/app-container-cloud/apcsr/op-paas-service-apaas-api-v1.1-apps-%7BidentityDomainId%7D-post.html)
 - Use Application Container Cloud [PSM APIs](https://docs.oracle.com/en/cloud/paas/java-cloud/pscli/accs-push.html)
